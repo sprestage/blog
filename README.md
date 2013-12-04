@@ -15,3 +15,5 @@ This doesn't currently run since the RailsCast (#250) that I used was using rail
 not realizing the challenges involved in switching to strong params.  I know how to do this now (as
 evidenced in my trakehner-db project.  I should get back to this at some point and implement strong params
 to get this working properly.  No time right now, so use at your own risk.  -sprestage
+
+Also, the tests fails.
