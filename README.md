@@ -1,4 +1,4 @@
-[![Code Climate](https://codeclimate.com/github/sprestage/blog.png)](https://codeclimate.com/github/sprestage/blog)[![Dependency Status](https://gemnasium.com/sprestage/blog.png)](https://gemnasium.com/sprestage/blog)
+[![Code Climate](https://codeclimate.com/github/sprestage/blog.png)](https://codeclimate.com/github/sprestage/blog)
 
 What is it?
 =======
